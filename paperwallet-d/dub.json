@@ -1,0 +1,9 @@
+{
+	"name": "paperwallet-d",
+	"authors": [
+		"truedat101"
+	],
+	"description": "A Paperwallet Generator for all cryptocurrency wallets",
+	"copyright": "Copyright 2018, IoTone, Inc.",
+	"license": "MIT"
+}
