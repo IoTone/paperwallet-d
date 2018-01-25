@@ -18,3 +18,4 @@ module paperwalletd;
 public import paperwalletd.ethclient;
 public import paperwalletd.ethwallet;
 public import paperwalletd.htmlgen;
+public import paperwalletd.ethcontract;
