@@ -28,3 +28,10 @@ What we don't like:
 
 - initial commits
 - project plan
+- Implement a QR Code Generator (base on the QR Code generator from https://www.nayuki.io/page/qr-code-generator-library)
+- Implement an d-ethereum code base (this seems like a big project)
+- Find some helpers
+
+## General Notes
+
+Conceptually we have a good grasp of the project.  I already did some pull requests on the original paperwallet for Ethereum.  What is difficult is there is no existing code base in D for Web4j (Ethereum client).  This is a ton of work.  I don't know anyone who wants to tackle this or who has time.  The QR Code generator seems more reasonable, however, we still need to implement a rasterizer to generate the bytes, presumably this can be done through some bytes to PNG converter.
