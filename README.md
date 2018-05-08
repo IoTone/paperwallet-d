@@ -2,6 +2,8 @@
 
 paperwallet-d is a cryptocurrency paper wallet generator written in D.  It is intended to easily support multiple currencies, as there currently are no multi-currency paper wallet generators out there.  Also, a key goal is to make sure this code is secure and reviewed so that it can be trusted for the sensitive nature of creating a secure way to store crytpocurrency.
 
+This project is blocked, pending work moving forward on https://github.com/IoTone/d-ethereum .  We found that without a decent ethereum client written in D under reasonable license, we'd have to spend a huge amount of time first writing new bindings from scratch.  We have switched efforts to writing a new blockchain in D.  If  you'd like to discuss this or anything else related to D and blockchain, please join the discussion: https://gitter.im/blockchain-d/Lobby
+
 ## References
 
 - Recreating this in D is a goal: https://github.com/matthiaszimmermann/ethereum-paper-wallet
